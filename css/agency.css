@@ -206,6 +206,10 @@ fieldset[disabled] .btn-xl.active {
     background-color: #0F1A75;
 }
 
+.text-color-white{
+	color: white !important;
+}
+
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
